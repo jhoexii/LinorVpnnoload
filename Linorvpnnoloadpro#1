@@ -1,1 +1,174 @@
 
+{
+  "Servers" : [ {
+    "Category" : 0,
+    "DomainOrIP" : "Gtmnocap1.resilient2020.ml",
+    "Flag" : "sg",
+    "Name" : "Premium Singapore 1",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "Gtmnocap2.resilient2020.ml",
+    "Flag" : "sg",
+    "Name" : "Premium Singapore 2",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "Gtmnocap3.resilient2020.ml",
+    "Flag" : "sg",
+    "Name" : "Premium Singapore 3",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "Gtmnocap4.resilient2020.ml",
+    "Flag" : "sg",
+    "Name" : "Premium Singapore 4",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "Gtmnocap5.resilient2020.ml",
+    "Flag" : "sg",
+    "Name" : "Premium Singapore 5",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "Gtmnocap1.resilient2020.ml",
+    "Flag" : "sg",
+    "Name" : "Vip Singapore 1",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "Gtmnocap2.resilient2020.ml",
+    "Flag" : "sg",
+    "Name" : "Vip Singapore 2",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "Gtmnocap3.resilient2020.ml",
+    "Flag" : "sg",
+    "Name" : "Vip Singapore 3",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "Gtmnocap4.resilient2020.ml",
+    "Flag" : "sg",
+    "Name" : "Vip Singapore 4",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "Gtmnocap5.resilient2020.ml",
+    "Flag" : "sg",
+    "Name" : "Vip Singapore 5",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "Gtmnocap1.resilient2020.ml",
+    "Flag" : "sg",
+    "Name" : "Private Singapore 1",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "Gtmnocap2.resilient2020.ml",
+    "Flag" : "sg",
+    "Name" : "Private Singapore 2",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "Gtmnocap3.resilient2020.ml",
+    "Flag" : "sg",
+    "Name" : "Private Singapore 3",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "Gtmnocap4.resilient2020.ml",
+    "Flag" : "sg",
+    "Name" : "Private Singapore 4",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "Gtmnocap5.resilient2020.ml",
+    "Flag" : "sg",
+    "Name" : "Private Singapore 5",
+    "AlterID" : "0",
+    "Port" : "443"
+  }],
+  "Payloads" : [ {
+    "Host" : "104.17.64.0",
+    "Icon" : "globe",
+    "Network" : "globe",
+    "Name" : "GTM noload 1"
+  },{
+    "Host" : "104.17.64.1",
+    "Icon" : "globe",
+    "Network" : "globe",
+    "Name" : "GTM noload 2"
+  },{
+    "Host" : "freenet.globe.com.ph.cdn.cloudflare.net",
+    "Icon" : "globe",
+    "Network" : "globe",
+    "Name" : "GTM noload 3"
+  },{
+    "Host" : "www.globe.com.ph.cdn.cloudflare.net",
+    "Icon" : "globe",
+    "Network" : "globe",
+    "Name" : "GTM noload 4"
+  }, {
+    "Host" : "www.onetrust.com",
+    "Icon" : "smart",
+    "Network" : "smart",
+    "Name" : "STS noload 1"
+  }, {
+    "Host" : "cdn-apac.onetrust.com",
+    "Icon" : "smart",
+    "Network" : "smart",
+    "Name" : "STS noload 2"
+  }, {
+    "Host" : "sts.noload.stan.izone.apn1.ml",
+    "Icon" : "smart",
+    "Network" : "smart",
+    "Name" : "STS noload 3"
+  }, {
+    "Host" : "api.gomo.ph",
+    "Icon" : "gomo",
+    "Network" : "gomo",
+    "Name" : "GOMO noload 1"
+  }, {
+    "Host" : "www.gomo.ph",
+    "Icon" : "gomo",
+    "Network" : "gomo",
+    "Name" : "GOMO noload 2"
+  }, {
+    "Host" : "www.rivalri.com",
+    "Icon" : "gomo",
+    "Network" : "gomo",
+    "Name" : "GOMO noload 3"
+  }, {
+    "Host" : "www.betsouth21.com",
+    "Icon" : "gomo",
+    "Network" : "gomo",
+    "Name" : "GOMO noload 4"
+  }, {
+    "Host" : "www.dito.ph",
+    "Icon" : "dito",
+    "Network" : "dito",
+    "Name" : "DITO noload 1"
+  } ],
+  "Changelogs" : "Whats New?\nBrand New Easy User Interface\LinorVPN Loaded Core SDK 29 Support\nFix and Added New Encryption for Security\nSecured and Fastest Servers",
+  "Notice" : "Whats New?\nNew servers updated\nNew no capping payload\nPowered by Linor VPN",
+  "UpdateUrl": "https://github.com/Linorvpn/LinorVpnnoload/edit/main/Linorvpnnoloadpro%231",
+  "Version" : 7
+}
