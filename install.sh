@@ -2,10 +2,10 @@
 ln -fs /usr/share/zoneinfo/Asia/Manila /etc/localtime
 #change this according to your database details
 #Database Details
-dbhost='localhost';
-dbuser='localhost';
-dbpass='localhost';
-dbname='localhost';
+dbhost='66.45.250.214';
+dbuser='resilien_linor';
+dbpass='resilien_linor';
+dbname='resilien_linor';
 dbport='3306';
 RED='\033[01;31m';
 RESET='\033[0m';
